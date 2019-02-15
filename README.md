@@ -1,5 +1,1 @@
-# node-mysql
-
-This one was pretty tough for me, getting it to update and getting the program to do math took quite a bit of research and hair pulling. Inquirer wasnt my friend this time around, i had to figure out how to get the choices to match the proper "category". Mysql was the easy part, setting it up was a snap.
-
-Portfolio link  https://blznk128.github.io/newportfolio.html
+This is a back-end application that uses inquirer and javascript with mysql database. It simulates amazon, the user runs the program and it will notify the user of available "stock" of certain items. The user can then decide what to buy and how many units and the application will calculate the inventory and costs of chosen items.
